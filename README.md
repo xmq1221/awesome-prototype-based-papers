@@ -22,6 +22,9 @@ Prototype-based methods are inclined to achieve interpretable image classificati
 * **Proto2Proto: Can you recognize the car, the way I do?** (CVPR 2022)
   * [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Keswani_Proto2Proto_Can_You_Recognize_the_Car_the_Way_I_Do_CVPR_2022_paper.pdf) [[Code]](https://github.com/archmaester/proto2proto)
 
+* **ProtoPFormer: Concentrating on Prototypical Parts in Vision Transformers for Interpretable Image Recognition** (Arxiv)
+  * [[Paper]](https://arxiv.org/pdf/2208.10431.pdf) [[Code]](https://github.com/zju-vipa/ProtoPFormer)
+
 * **Concept-level Debugging of Part-Prototype Networks** (Arxiv)
   * [[Paper]](https://arxiv.org/pdf/2205.15769.pdf) [[Code]](https://github.com/abonte/protopdebug)
 
@@ -35,8 +38,7 @@ prototypical parts** (Essay.Twente)
 * **Learnable Visual Words for Interpretable Image Recognition** (Arxiv)
   * [[Paper]](https://arxiv.org/pdf/2205.10724.pdf) [[Code]](https://github.com/LearnableVW/Learnable-Visual-Words)
 
-* **Multi-Grained Interpretable Network for Image
-Recognition**
+* **Multi-Grained Interpretable Network for Image Recognition**
   * [[Paper]](https://zeyiwen.github.io/papers/icpr22-interpretable_nn.pdf)
 
 ### 2021
@@ -56,6 +58,9 @@ in Interpretable Image Classification** (KDD 2021)
 
 * **This looks like that, because... explaining prototypes for interpretable image recognition** (Arxiv)
   * [[Paper]](https://arxiv.org/pdf/2011.02863.pdf) [[Code]](https://github.com/M-Nauta/Explaining_Prototypes)
+
+* **This Looks Like That... Does it? Shortcomings of Latent Space Prototype Interpretability in Deep Networks** (Arxiv)
+  * [[Paper]](https://arxiv.org/pdf/2105.02968.pdf) [[Code]](https://github.com/fanconic/this-does-not-look-like-that)
 
 ### 2019
 
