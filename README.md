@@ -22,6 +22,9 @@ Prototype-based methods are inclined to achieve interpretable image classificati
 * **Proto2Proto: Can you recognize the car, the way I do?** (CVPR 2022)
   * [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Keswani_Proto2Proto_Can_You_Recognize_the_Car_the_Way_I_Do_CVPR_2022_paper.pdf) [[Code]](https://github.com/archmaester/proto2proto)
 
+* **ProtoMIL: Multiple Instance Learning with Prototypical Parts for Whole-Slide Image Classification** (ECML PKDD 2022)
+  * [[Paper]](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_346.pdf) [[Code]](https://github.com/apardyl/ProtoMIL)
+
 * **ProtoPFormer: Concentrating on Prototypical Parts in Vision Transformers for Interpretable Image Recognition** (Arxiv)
   * [[Paper]](https://arxiv.org/pdf/2208.10431.pdf) [[Code]](https://github.com/zju-vipa/ProtoPFormer)
 
