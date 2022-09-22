@@ -1,4 +1,4 @@
-# Awesome Prototype-based Papers
+# Awesome Prototype-based Papers for XAI
 
 Selected papers and possible corresponding codes for prototype-based papers.
 
