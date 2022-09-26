@@ -1,6 +1,6 @@
-# Awesome Prototype-based Papers for XAI
+# Awesome Part-prototype-based Papers for XAI
 
-Selected papers and possible corresponding codes for prototype-based papers for XAI.
+Selected papers and possible corresponding codes for part-prototype-based papers for XAI.
 
 *If you find a paper missed in this repository, please feel free to pull a request here.*
 
