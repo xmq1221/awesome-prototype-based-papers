@@ -22,6 +22,9 @@ Prototype-based methods are inclined to achieve interpretable image classificati
 * **Proto2Proto: Can you recognize the car, the way I do?** (CVPR 2022)
   * [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Keswani_Proto2Proto_Can_You_Recognize_the_Car_the_Way_I_Do_CVPR_2022_paper.pdf) [[Code]](https://github.com/archmaester/proto2proto)
 
+* **ProtGNN: Towards Self-Explaining Graph Neural Networks** (AAAI 2022)
+  * [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/20898/20657) [[Code]](https://github.com/zaixizhang/ProtGNN)
+
 * **ProtoMIL: Multiple Instance Learning with Prototypical Parts for Whole-Slide Image Classification** (ECML PKDD 2022)
   * [[Paper]](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_346.pdf) [[Code]](https://github.com/apardyl/ProtoMIL)
 
@@ -58,6 +61,9 @@ in Interpretable Image Classification** (KDD 2021)
 
 * **These do not Look Like Those: An Interpretable Deep Learning Model for Image Recognition** (IEEE Access)
   * [[Paper]](https://ieeexplore.ieee.org/document/9373404)
+
+* **Leveraging Class Hierarchies with Metric-Guided Prototype Learning** (BMVC 2021)
+  * [[Paper]](https://www.bmvc2021-virtualconference.com/assets/papers/0084.pdf) [[Code]](https://github.com/VSainteuf/metric-guided-prototypes-pytorch)
 
 * **This looks like that, because... explaining prototypes for interpretable image recognition** (Arxiv)
   * [[Paper]](https://arxiv.org/pdf/2011.02863.pdf) [[Code]](https://github.com/M-Nauta/Explaining_Prototypes)
