@@ -10,6 +10,9 @@ Prototype-based methods are inclined to achieve interpretable image classificati
 
 ### 2022
 
+* **Knowledge Distillation to Ensemble Global and Interpretable Prototype-Based Mammogram Classification Models** (MICCAI 2022)
+  * [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_2)
+
 * **ProtoPool: Interpretable Image Classification with Differentiable Prototypes Assignment** (ECCV 2022)
   * [[Paper]](https://arxiv.org/abs/2112.02902) [[Code]](https://github.com/gmum/ProtoPool)
 
