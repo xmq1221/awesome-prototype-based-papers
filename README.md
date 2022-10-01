@@ -10,8 +10,7 @@ Prototype-based methods are inclined to achieve interpretable image classificati
 
 ### 2022
 
-* **Semi-ProtoPNet Deep Neural Network for the Classification of Defective Power Grid Distribution Structures
-** (Sensors 2022)
+* **Semi-ProtoPNet Deep Neural Network for the Classification of Defective Power Grid Distribution Structures** (Sensors 2022)
   * [[Paper]](https://www.mdpi.com/1424-8220/22/13/4859/htm)
 
 * **Knowledge Distillation to Ensemble Global and Interpretable Prototype-Based Mammogram Classification Models** (MICCAI 2022)
