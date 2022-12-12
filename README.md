@@ -10,6 +10,12 @@ Prototype-based methods are inclined to achieve interpretable image classificati
 
 ### 2022
 
+* **Towards Interpretable Deep Reinforcement Learning with Human-Friendly Prototypes** (ICLR 2023)
+  * [[Paper]](https://openreview.net/forum?id=hWwY_Jq0xsN)
+
+* **ProtoVAE: A Trustworthy Self-Explainable Prototypical Variational Model** (NIPS 2022)
+  * [[Paper]](https://openreview.net/forum?id=L8pZq2eRWvX)
+
 * **Semi-ProtoPNet Deep Neural Network for the Classification of Defective Power Grid Distribution Structures** (Sensors 2022)
   * [[Paper]](https://www.mdpi.com/1424-8220/22/13/4859/htm)
 
